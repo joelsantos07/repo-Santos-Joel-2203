@@ -1,5 +1,5 @@
 package ar.edu.unju.fi.aplication.model;
 
-public class libro {
+public class Libro {
 
 }
